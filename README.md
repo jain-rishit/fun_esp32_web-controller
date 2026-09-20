@@ -31,8 +31,8 @@ Software: [PlatformIO Core](https://docs.platformio.org/en/latest/core/installat
 ## Getting started
 
 ```bash
-git clone https://github.com/yourname/esp-webcontrol.git   # or use your own repo
-cd esp-webcontrol
+git clone https://github.com/jain-rishit/fun_esp32_web-controller.git
+cd fun_esp32_web-controller
 pio run -t upload        # build & flash to the ESP32 on /dev/ttyUSB0
 ```
 
